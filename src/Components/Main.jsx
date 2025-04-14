@@ -61,7 +61,7 @@ const Main = () => {
 
   return (
     <main className="w-full bg-[#eff2f5] px-5 lg:px-20 py-7 flex items-start justify-between">
-      <section className="md:w-[66%] md:pt-8 px-5 py-5 md:px-10 lg:p-8 lg:px-23 rounded-2xl min-h-[90vh] bg-white ">
+      <section className="md:w-[66%] w-full md:pt-8 px-5 py-5 md:px-10 lg:p-8 lg:px-23 rounded-2xl min-h-[90vh] bg-white ">
         <h1 className="capitalize font-bold pb-7 text-[20px] lg:text-[35px]  text-center ">
           Free crypto tax calculator australia
         </h1>
